@@ -1,0 +1,53 @@
+html {
+    background: forestgreen;
+    margin: 0;
+}
+body {
+    background: gray;
+    margin: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    font: arial,helvetica,sans-serif;
+    padding: 5px;
+}
+p{
+    font: 1em arial,helvetica,sans-serif; 
+}
+h1 {
+    font: 2em arial,helvetica,sans-serif;
+    font-weight: bold;
+}
+h2 {
+    font: 1.5em arial,helvetica,sans-serif;
+}
+h3 {
+    font: 1.25em arial,helvetica,sans-serif;
+}
+h4 {
+    font: 1.15em arial,helvetica,sans-serif;
+    font-weight: bold;
+}
+.flowright {
+    margin-left: 10px;
+    float: right;
+}
+.flowleft {
+    margin-right: 10px;
+    float: left;
+}
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 15%;
+}
+.family {
+    margin-left: 200px;
+}
+a {
+    color: forestgreen;
+}
+a:hover {
+    color: black;
+}
